@@ -1,0 +1,18 @@
+{
+  "name": "gec",
+  "version": "1.0.0",
+  "description": "Gec implementation ported from Python",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "hello": "./bin/index.js"
+  },
+  "dependencies": {
+    "dictionary-en": "^3.1.0",
+    "nspell": "^2.1.5"
+  }
+}
